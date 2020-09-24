@@ -1,2 +1,2 @@
-# youtube_cli_searcher
+# YouTube Searcher
 Search for YouTube videos from the CLI
